@@ -1,0 +1,72 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;	
+}
+
+.theme-codytron .nivoSlider{
+	position: relative;
+}
+
+.theme-codytron .nivoSlider{
+	border: 0px;
+	display: block;
+}
+
+
+.nivo-controlNav{
+	display: flex;
+	justify-content: center;
+}
+
+.theme-codytron .nivo-control{
+	display: block;
+	width: 18px;
+	height: 18px;
+	border-radius: 50%;
+	background: #6B6B6B;
+	margin: 7px;
+	text-indent: -9999px;
+}
+
+.nivo-nextNav{
+	background-image:url(../img/iconos/proximo.png);
+}
+
+.theme-codytron .nivo-control:hover{
+	background: #000000;
+}
+
+.theme-codytron .active{
+	background: #000000;
+}
+
+.nivo-directionNav a{
+	display: block;
+	width: 30px;
+	height: 30px;
+}
+
+
+.nivo-directionNav .nivo-prevNav{
+	background-image: url(../img/iconos/espalda.png);
+	background-size: cover;
+	text-indent: -9999px;
+	left: 15px;
+}
+
+.nivo-directionNav .nivo-nextNav{
+	background-image: url(../img/iconos/proximo.png);
+	background-size: cover;
+	text-indent: -9999px;
+	right: 15px;
+}
+
+
+
+
+
+
+

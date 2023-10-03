@@ -1,0 +1,160 @@
+main{
+    position: relative;
+    top: 60px;
+}
+
+#info_somos{
+	padding-top: 150px;
+
+}
+
+
+
+.content-one{
+    width: 100%;
+}
+
+.informacion{
+	padding: 20px;
+}
+
+
+.content-portada{
+    width: 100%;
+    height: 400px;
+    margin: auto;
+    background-image: url(../image/piezas.jpg);
+    background-position: center center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+@media screen and (max-width:1000px){
+    .content-portada{
+        background-size: 2000px;
+    }
+}
+
+.content-item1{
+    width: 700px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+
+
+.content-item1 h4{
+    color: black;
+    font-size: 60px;
+    font-weight: 100;
+    font-family: Kristen ITC;
+}
+.content-item1 h3{
+    color: black;
+    font-size: 60px;
+}
+
+.content-item1 h2{
+    color: black;
+    font-size: 40px;
+    font-weight: 100;
+}
+
+@media screen and (max-width:800px){
+    .content-item1{
+        width: 100%;
+    }
+}
+
+.content-three{
+    width: 100%;
+    background: #f7f7f7;
+    padding: 40px;
+    
+}
+
+.content-module{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+@media screen and (max-width:600px){
+    .content-module{
+        width: 100%;
+    }
+}
+
+
+.content-module img{
+    margin-top: 40px;
+    transition: all 300ms;
+}
+
+.content-for{
+    width: 100%;
+}
+
+.content-item3{
+    width: 90%;
+    max-width: 800px;
+    margin: auto;
+    padding: 40px;
+    text-align: center;
+}
+
+.content-item3 h4{
+    text-align: center;
+    font-size: 20px;
+}
+.content-item3 p{
+    text-align: center;
+    margin-top: 20px;
+    color: #7a7a7a;
+    font-weight: 500;
+}
+
+.content-item3 img{
+    width: 100%;
+    max-width: 700px;
+    margin-top: 30px;
+}
+.content-item8 img  {
+    width: 70%;
+    max-width: 500px;
+    margin-top: 30px;
+    margin: auto;
+}
+.content-item7 img  {
+    width: 100%;
+    max-width: 700px;
+    margin-top: 30px;
+    margin: auto;
+}
+
+
+
+.content-five{
+    width: 100%;
+    background:     #DC143C;
+}
+
+.content-item4{
+    width: 90%;
+    max-width: 800px;
+    padding: 50px;
+    margin: auto;
+    color: black;
+    text-align: center;
+    font-family: Century Gothic;
+}
+
+.content-item4 h4{
+    font-size: 20px;
+}
+
+.content-item4 p{
+    margin-top: 20px;
+}
+
+
